@@ -1,16 +1,16 @@
-# _Title_
+# _Deck of Cards_
 
-#### _Brief Desc, date_
+#### _Card Rank List, 3-27-17_
 
 #### By _**Starlynne Start**_
 
 ## Description
 
-_This is an evolving calculator page created to practice JavaScript. Made for Epicodus week 2._
+_This is an evolving page created to practice JavaScript/jQuery arrays and looping. It creates all the ranks and suits in a standard 52 card deck and prints them to the DOM. Made for Epicodus week 3._
 
 ## Setup/Installation Requirements
 
-* _view at https://twyststar.github.io/calculator_
+* _view at https://twyststar.github.io/card-deck_
 * _OR_
 * _clone this repository to desktop_
 * _open index.html with browser_

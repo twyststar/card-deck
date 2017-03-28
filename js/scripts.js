@@ -1,6 +1,6 @@
 $(document).ready(function(){
   var cards = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, "Jack", "Queen", "King", "Ace"];
-  var suits = ["Spades", "Hearts", "Clubs", "Diamonds"];
+  var suits = ["Diamonds", "Hearts", "Clubs", "Spades"];
   var deck = [];
 
   suits.forEach(function(suit){
